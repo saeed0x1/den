@@ -26,7 +26,7 @@ type DecodeMethods interface {
 
 func (d *DE) FromURL() {
 	decodeurl, _ := url.QueryUnescape(d.S)
-	fmt.Print(decodeurl)
+	fmt.Println(decodeurl)
 }
 
 func (d *DE) FromHTML() {
