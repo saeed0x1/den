@@ -71,4 +71,4 @@ echo "hi" | den -all
 
 ## License
 
-den is released under the MIT License. See [LICENSE](https://chat.openai.com/LICENSE) for details.
+den is released under the MIT License. See [LICENSE](https://raw.githubusercontent.com/zerodayrat/den/main/LICENSE) for details.
