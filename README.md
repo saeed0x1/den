@@ -1,6 +1,6 @@
 # DEN 
 
-den is a simple command-line tool for encoding and decoding strings. It provides various flags that allow you to specify the type of encoding or decoding you want to perform. 
+den is a command-line tool for encoding and decoding strings. It provides various flags that allow you to specify the type of encoding or decoding you want to perform. 
 
 ## Usage
 
