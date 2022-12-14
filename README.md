@@ -6,12 +6,21 @@ den is a simple command-line tool for encoding and decoding strings. It provides
 
 ```
 Usage of den:
+
   -all
         Encode in all Available Format
   -base64
         Encode in Base64
   -bin
         Encode in Binary
+  -dec
+        Encode in Decimal
+  -hex
+        Encode in Hexadecimal
+  -html
+        Encode in HTML
+  -url
+        Encode in URL
   -dall
         Decode in all Available Formats
   -dbase64
@@ -20,21 +29,12 @@ Usage of den:
         Decode from Binary
   -ddec
         Decode from Decimal
-  -dec
-        Encode in Decimal
   -dhex
         Decode from Hex
   -dhtml
         Decode from HTML
   -durl
         Decode from URL
-  -hex
-        Encode in Hexadecimal
-  -html
-        Encode in HTML
-  -url
-        Encode in URL
-
 ```
 
 ### Syntax
